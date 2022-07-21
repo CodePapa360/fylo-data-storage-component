@@ -23,7 +23,7 @@ body {
 main{
     background-image: url(images/bg-mobile.png);
     background-size: cover;
-    min-width: 375px;
+    width: 23.438rem;
     max-width: 1440px;
     display: flex;
     justify-content: center;
